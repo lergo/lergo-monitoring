@@ -1,6 +1,7 @@
 'usr strict';
 /**
  * @module conf
+ * @description
  * holds configuration for monitoring scripts.
  *
  * use simply by writing

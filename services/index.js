@@ -1,5 +1,6 @@
 /**
  * @module services
+ * @description
  * a collection of services to use.
  *
  * use this collection simply by running
