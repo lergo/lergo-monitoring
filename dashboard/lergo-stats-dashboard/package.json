@@ -1,0 +1,12 @@
+{
+  "name": "lergo-stats-dashboard",
+  "description": "lergo-stats-dashboard",
+  "author": "<Put your name here>",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "dashing-js": "~0.1.5",
+    "deep-diff": "~0.3.0"
+  },
+  "engine": "node >= 0.10"
+}
